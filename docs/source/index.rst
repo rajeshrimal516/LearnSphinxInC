@@ -4,10 +4,10 @@
    contain the root `toctree` directive.
 
 Welcome to LearnSphinxInC's documentation!
-========================================
+==========================================
 
-This is the simple project to demonstrate the sphinx documentation generated from the
-doxygen comments in the project.
+This is a simple project to demonstrate the sphinx documentation generated from the
+Doxygen comments on the project.
 
 .. toctree::
    :maxdepth: 2

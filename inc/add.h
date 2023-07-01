@@ -3,7 +3,7 @@
 
 
 /**
- * \defgroup addition_function Addition Function
+ * \addtogroup addition_function Addition Function
  */
 /**@{*/
 

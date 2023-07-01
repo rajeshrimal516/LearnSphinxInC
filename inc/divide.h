@@ -1,7 +1,7 @@
 #ifndef DIVIDE_H
 #define DIVIDE_H
 /**
- * \defgroup division_function Division Function
+ * \addtogroup division_function Division Function
  */
 /**@{*/
 

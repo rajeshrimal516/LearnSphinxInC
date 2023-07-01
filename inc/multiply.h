@@ -2,7 +2,7 @@
 #define MULTIPLY_H
 
 /**
- * \defgroup multiplication_function Multiplication Function
+ * \addtogroup multiplication_function Multiplication Function
  */
 /**@{*/
 

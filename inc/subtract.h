@@ -2,7 +2,7 @@
 #define SUBTRACT_H
 
 /**
- * \defgroup subtraction_function Subtraction Function
+ * \addtogroup subtraction_function Subtraction Function
  */
 /**@{*/
 

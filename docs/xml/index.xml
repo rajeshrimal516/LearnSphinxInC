@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.7" xml:lang="en-US">
+  <compound refid="namespaceconf" kind="namespace"><name>conf</name>
+    <member refid="namespaceconf_1a2803387c30920e3e74f46eb541db430d" kind="variable"><name>project</name></member>
+    <member refid="namespaceconf_1aa11e0a8e9c47ccc775796bd64c295d2c" kind="variable"><name>copyright</name></member>
+    <member refid="namespaceconf_1a0b68e66074bc74dbb7460951f810b4c8" kind="variable"><name>author</name></member>
+    <member refid="namespaceconf_1aca7e23e5f354ec5d8e18d6b5769908c9" kind="variable"><name>release</name></member>
+    <member refid="namespaceconf_1ae475e080536acb271a0a0efe56c3ba42" kind="variable"><name>extensions</name></member>
+    <member refid="namespaceconf_1a26dfa0550bdf25ff717aba97b09a582d" kind="variable"><name>doxygen_path</name></member>
+    <member refid="namespaceconf_1ad7fcd78de73b7505cc99717d4abf2ac1" kind="variable"><name>breathe_projects</name></member>
+    <member refid="namespaceconf_1a2da1f03fc918d063267b2bad5de58c7b" kind="variable"><name>breathe_implementation_filename_extensions</name></member>
+    <member refid="namespaceconf_1a15ff89fd36856d4530d4ed2083e6dfc7" kind="variable"><name>breathe_default_project</name></member>
+    <member refid="namespaceconf_1ae850ae634911b713e036b43894fdd525" kind="variable"><name>templates_path</name></member>
+    <member refid="namespaceconf_1a7ad48fb6f3e9b129c02346ea0d3527c1" kind="variable"><name>exclude_patterns</name></member>
+    <member refid="namespaceconf_1a012ba9863b958ed7baa933116f2a05b6" kind="variable"><name>html_theme</name></member>
+    <member refid="namespaceconf_1af4fb5d8851ccaade135c2668dd3ced41" kind="variable"><name>html_static_path</name></member>
+  </compound>
+  <compound refid="conf_8py" kind="file"><name>conf.py</name>
+  </compound>
+  <compound refid="add_8h" kind="file"><name>add.h</name>
+    <member refid="group__addition__function_1gad3090520f83f07c8745e95ccd4903106" kind="function"><name>add</name></member>
+  </compound>
+  <compound refid="divide_8h" kind="file"><name>divide.h</name>
+    <member refid="group__division__function_1gad00989144636dce6f46e558958150ee3" kind="function"><name>divide</name></member>
+  </compound>
+  <compound refid="multiply_8h" kind="file"><name>multiply.h</name>
+    <member refid="group__multiplication__function_1gad91f9cf43c13d6288a000a71fb8ba0b8" kind="function"><name>multiply</name></member>
+  </compound>
+  <compound refid="subtract_8h" kind="file"><name>subtract.h</name>
+    <member refid="group__subtraction__function_1gab1b796ee339f7860fc0ecc2c2d31cd3b" kind="function"><name>subtract</name></member>
+  </compound>
+  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="add_8c" kind="file"><name>add.c</name>
+    <member refid="group__addition__function_1gad3090520f83f07c8745e95ccd4903106" kind="function"><name>add</name></member>
+  </compound>
+  <compound refid="divide_8c" kind="file"><name>divide.c</name>
+    <member refid="group__division__function_1gad00989144636dce6f46e558958150ee3" kind="function"><name>divide</name></member>
+  </compound>
+  <compound refid="main_8c" kind="file"><name>main.c</name>
+    <member refid="group__main__function_1ga840291bc02cba5474a4cb46a9b9566fe" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="multiply_8c" kind="file"><name>multiply.c</name>
+    <member refid="group__multiplication__function_1gad91f9cf43c13d6288a000a71fb8ba0b8" kind="function"><name>multiply</name></member>
+  </compound>
+  <compound refid="subtract_8c" kind="file"><name>subtract.c</name>
+    <member refid="group__subtraction__function_1gab1b796ee339f7860fc0ecc2c2d31cd3b" kind="function"><name>subtract</name></member>
+  </compound>
+  <compound refid="group__addition__function" kind="group"><name>addition_function</name>
+    <member refid="group__addition__function_1gad3090520f83f07c8745e95ccd4903106" kind="function"><name>add</name></member>
+  </compound>
+  <compound refid="group__division__function" kind="group"><name>division_function</name>
+    <member refid="group__division__function_1gad00989144636dce6f46e558958150ee3" kind="function"><name>divide</name></member>
+  </compound>
+  <compound refid="group__multiplication__function" kind="group"><name>multiplication_function</name>
+    <member refid="group__multiplication__function_1gad91f9cf43c13d6288a000a71fb8ba0b8" kind="function"><name>multiply</name></member>
+  </compound>
+  <compound refid="group__subtraction__function" kind="group"><name>subtraction_function</name>
+    <member refid="group__subtraction__function_1gab1b796ee339f7860fc0ecc2c2d31cd3b" kind="function"><name>subtract</name></member>
+  </compound>
+  <compound refid="group__main__function" kind="group"><name>main_function</name>
+    <member refid="group__main__function_1ga840291bc02cba5474a4cb46a9b9566fe" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="md__c_1_2_users_2_a_s_u_s_2_desktop_2_test_2_learn_sphinx_in_c_2_r_e_a_d_m_e" kind="page"><name>md__c_1_2_users_2_a_s_u_s_2_desktop_2_test_2_learn_sphinx_in_c_2_r_e_a_d_m_e</name>
+  </compound>
+  <compound refid="dir_bfccd401955b95cf8c75461437045ac0" kind="dir"><name>C:/Users/ASUS/Desktop/Test/LearnSphinxInC/inc</name>
+  </compound>
+  <compound refid="dir_1ab31cb45db5038bdda41b72d8600e0e" kind="dir"><name>source</name>
+  </compound>
+  <compound refid="dir_68267d1309a1af8e8297ef4c3efbcdba" kind="dir"><name>C:/Users/ASUS/Desktop/Test/LearnSphinxInC/src</name>
+  </compound>
+</doxygenindex>

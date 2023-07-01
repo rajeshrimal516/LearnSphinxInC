@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.7" xml:lang="en-US">
+  <compounddef id="dir_bfccd401955b95cf8c75461437045ac0" kind="dir">
+    <compoundname>C:/Users/ASUS/Desktop/Test/LearnSphinxInC/inc</compoundname>
+    <innerfile refid="add_8h">add.h</innerfile>
+    <innerfile refid="divide_8h">divide.h</innerfile>
+    <innerfile refid="multiply_8h">multiply.h</innerfile>
+    <innerfile refid="subtract_8h">subtract.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/ASUS/Desktop/Test/LearnSphinxInC/inc/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.7" xml:lang="en-US">
+  <compounddef id="group__subtraction__function" kind="group">
+    <compoundname>subtraction_function</compoundname>
+    <title>Subtraction Function</title>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="group__subtraction__function_1gab1b796ee339f7860fc0ecc2c2d31cd3b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int subtract</definition>
+        <argsstring>(int num1, int num2)</argsstring>
+        <name>subtract</name>
+        <param>
+          <type>int</type>
+          <declname>num1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>num2</declname>
+        </param>
+        <briefdescription>
+<para>This function subtracts one integer from another and returns the difference. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername direction="in">num1</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>First Number. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername direction="in">num2</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Second Number.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="retval"><parameteritem>
+<parameternamelist>
+<parametername>difference</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Difference of two integers num1 and num2. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/ASUS/Desktop/Test/LearnSphinxInC/inc/subtract.h" line="17" column="5" bodyfile="C:/Users/ASUS/Desktop/Test/LearnSphinxInC/src/subtract.c" bodystart="3" bodyend="7" declfile="C:/Users/ASUS/Desktop/Test/LearnSphinxInC/inc/subtract.h" declline="17" declcolumn="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.7" xml:lang="en-US">
+  <compounddef id="group__multiplication__function" kind="group">
+    <compoundname>multiplication_function</compoundname>
+    <title>Multiplication Function</title>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="group__multiplication__function_1gad91f9cf43c13d6288a000a71fb8ba0b8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int multiply</definition>
+        <argsstring>(int num1, int num2)</argsstring>
+        <name>multiply</name>
+        <param>
+          <type>int</type>
+          <declname>num1</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>num2</declname>
+        </param>
+        <briefdescription>
+<para>This function multiplies the two integers and returns the product. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername direction="in">num1</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>First Number. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername direction="in">num2</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Second Number.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="retval"><parameteritem>
+<parameternamelist>
+<parametername>product</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Product of two integers num1 and num2. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/ASUS/Desktop/Test/LearnSphinxInC/inc/multiply.h" line="17" column="5" bodyfile="C:/Users/ASUS/Desktop/Test/LearnSphinxInC/src/multiply.c" bodystart="3" bodyend="7" declfile="C:/Users/ASUS/Desktop/Test/LearnSphinxInC/inc/multiply.h" declline="17" declcolumn="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+  </compounddef>
+</doxygen>

@@ -1,7 +1,6 @@
 #ifndef ADD_H
 #define ADD_H
 
-
 /**
  * \addtogroup addition_function Addition Function
  */

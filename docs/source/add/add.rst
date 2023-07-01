@@ -2,8 +2,8 @@
 ADDITION
 ########
 
-Add Function
-============
+Addition Function
+=================
 
 Functions for adding two numbers.
 

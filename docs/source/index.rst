@@ -12,7 +12,8 @@ Doxygen comments on the project.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   main
    add/add.rst
    subtract/subtract.rst
    multiply/multiply.rst

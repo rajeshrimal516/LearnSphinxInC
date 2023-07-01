@@ -4,7 +4,21 @@
 #include "../inc/multiply.h"
 #include "../inc/divide.h"
 
-int main()
+/**
+ * \addtogroup main_function Main Function
+ */
+/**@{*/
+/**
+ * \brief Main Function for performing arithmetic operations.
+ *
+ * \par Parameters
+ *      None.
+ * 
+ * \retval Zero on success.
+ *
+ * \return int
+ */
+int main(void)
 {
     int a = 10;
     int b = 5;
@@ -21,6 +35,6 @@ int main()
     int quotient = divide(a, b);
     printf("Quotient of %d and %d is %d\n", a, b, quotient);
 
-
     return 0;
 }
+/**@}*/ /* End of main_function group*/

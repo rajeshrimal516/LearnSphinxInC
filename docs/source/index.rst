@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to LearnSphinxC's documentation!
+Welcome to LearnSphinxInC's documentation!
 ========================================
 
 This is the simple project to demonstrate the sphinx documentation generated from the

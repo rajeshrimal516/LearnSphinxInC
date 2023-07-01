@@ -10,19 +10,24 @@ pip install sphinx_rtd_theme
 ```
 git clone https://github.com/rajeshrimal516/LearnSphinxInC
 ```
-Download DoxyWidzard and install it.
-Open DoxyWidzard -> File -> Open
+## Generate Doxygen XML files
+
+Download DoxyWizard from https://www.doxygen.nl/download.html according to the OS and install it.
+
+Open DoxyWizard -> File -> Open
 
 Search Doxyfile.in from LearnSpinxInC/docs and open it.
 
-Run Doxygen
+Click Run Doxygen
+
 This generates the Doxygen folder and inside it the xmls.
+
+Close the DoxyWizard
 
 ## Generate HTML file
 
 ```
 cd LearnSphinxInC/docs
-
 make html
 
 ```
